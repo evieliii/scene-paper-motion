@@ -1,0 +1,4 @@
+interface:
+  display_name: "一景微动"
+  short_description: "输入主题或照片，生成照片与暖纸插画对照，让一两个视觉锚点循环微动"
+  default_prompt: "使用 $scene-paper-motion，以雨后的江南小巷为主题，生成照片＋暖纸插画和循环动图。"
